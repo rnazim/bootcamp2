@@ -30,7 +30,10 @@ public class day2 {
 				intB += charA[i];
 			}
 			
-		}*/
+		}
+		System.out.println(intB);
+		*/
+		
 		for(int i=0; i<9; i++) {
 			if(i<3) {
 				chY = (char) ran.nextInt(65,91);

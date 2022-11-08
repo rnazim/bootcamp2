@@ -12,7 +12,7 @@
   </dependency>
   </dependencies>
   <groupId>com.bcafinance</groupId>
-  <artifactId>javafundamental</artifactId>
+  <artifactId>RNA</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Fundamental Java</name>
   <description>Cobain Workspace</description>
